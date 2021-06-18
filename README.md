@@ -29,7 +29,7 @@ Users are able to:
   
   The current user will also be able to follow other users pages
   
-  ![Image of Profile Screen](images/https://github.com/miraAGS/Web-and-Mobile/blob/main/images/Profilepage.PNG)
+  ![Image of Profile Screen](https://github.com/miraAGS/Web-and-Mobile/blob/main/images/Profilepage.PNG)
 
   
 * Update and Delete posts created
